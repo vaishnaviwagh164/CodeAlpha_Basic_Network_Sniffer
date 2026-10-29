@@ -1,0 +1,14 @@
+====================================
+       BASIC NETWORK SNIFFER
+====================================
+Starting packet capture...
+Press Ctrl+C to stop.
+
+========== Network Packet ==========
+Source IP      : 192.168.1.5
+Destination IP : 142.250.183.14
+Protocol       : TCP
+Source Port    : 52000
+Destination Port: 443
+Payload        : No readable payload available
+====================================
